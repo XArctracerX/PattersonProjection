@@ -1,0 +1,9 @@
+version="0.1"
+tags={
+	"Map"
+}
+replace_path="history/states"
+replace_path="map/strategicregions"
+name="PattersonProjection"
+supported_version="1.16.4"
+remote_file_id="3455838578"
