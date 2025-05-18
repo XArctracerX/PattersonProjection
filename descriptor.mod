@@ -5,5 +5,5 @@ tags={
 replace_path="history/states"
 replace_path="map/strategicregions"
 name="Patterson Projection"
-supported_version="1.16.5"
+supported_version="1.16.6"
 remote_file_id="3455838578"
