@@ -31,7 +31,7 @@ state = {
 			}
 		}
 		add_core_of = ITA
-		#LBV
+		add_core_of = LBV
 	}
 
 	provinces = {

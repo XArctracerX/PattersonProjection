@@ -19,6 +19,7 @@ state= {
 		add_core_of = YUG
 		add_core_of = CRO
 		start_resistance = CRO #Yugoslavia shouldn't resist occupation
+		add_core_of = LBV
 	} 
 	provinces={	
 		3943 

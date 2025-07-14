@@ -16,7 +16,7 @@ state={
 			}
 		}
 		add_core_of = LIT
-		#add_core_of = PRE
+		add_core_of = PRE
 
 	}
 	manpower=150000

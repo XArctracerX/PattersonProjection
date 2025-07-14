@@ -9,6 +9,7 @@ state={
 		}
 		add_core_of = GER
 		set_demilitarized_zone = yes
+		add_core_of = WUR
 		victory_points = {
 			3530 10
 		}
