@@ -8692,7 +8692,7 @@ focus_tree = {
 			}
 			if = {
 				limit = {
-					972 = {
+					1078 = {
 						controller = {
 							NOT = {
 								tag = ROOT
@@ -8701,7 +8701,7 @@ focus_tree = {
 						}
 					}
 				}
-				add_state_claim = 972
+				add_state_claim = 1078
 			}
 			if = {
 				limit = {
@@ -8739,7 +8739,7 @@ focus_tree = {
 							is_owned_and_controlled_by = CZE
 							OR = {
 								state = 69
-								state = 972
+								state = 1078
 								state = 74
 							}
 						}
@@ -9701,7 +9701,7 @@ focus_tree = {
 							}
 						}
 					}
-					972 = { #EASTERN SUDETENLAND
+					1078 = { #EASTERN SUDETENLAND
 						controller = {
 							OR = {
 								has_war_with = GER
@@ -9768,7 +9768,7 @@ focus_tree = {
 			}
 			if = {
 				limit = {
-					972 = {
+					1078 = {
 						controller = {
 							NOT = {
 								tag = ROOT
@@ -9777,7 +9777,7 @@ focus_tree = {
 						}
 					}
 				}
-				add_state_claim = 972
+				add_state_claim = 1078
 			}
 			if = {
 				limit = {
@@ -9799,7 +9799,7 @@ focus_tree = {
 					CZE = {
 						OR = {
 							controls_state = 69
-							controls_state = 972
+							controls_state = 1078
 							controls_state = 74
 						}
 					}
@@ -9848,7 +9848,7 @@ focus_tree = {
 							NOT = { has_war_with = ENG }
 							OR = {
 								controls_state = 69
-								controls_state = 972
+								controls_state = 1078
 								controls_state = 74
 							}
 						}
@@ -9899,7 +9899,7 @@ focus_tree = {
 						NOT = { tag = CZE }
 						OR = {
 							controls_state = 69
-							controls_state = 972
+							controls_state = 1078
 							controls_state = 74
 						}
 						NOT = { has_war_with = ROOT }
@@ -9910,7 +9910,7 @@ focus_tree = {
 						NOT = { tag = CZE }
 						OR = {
 							controls_state = 69
-							controls_state = 972
+							controls_state = 1078
 							controls_state = 74
 						}
 						NOT = { has_war_with = ROOT }
@@ -9978,7 +9978,7 @@ focus_tree = {
 			}
 			OR = {
 				owns_state = 69
-				owns_state = 972
+				owns_state = 1078
 			}
 		}
 
@@ -23824,7 +23824,7 @@ focus_tree = {
 				}
 				OR = {
 					controls_state = 69
-					controls_state = 972
+					controls_state = 1078
 					controls_state = 9
 					controls_state = 75
 					controls_state = 74
@@ -23858,7 +23858,7 @@ focus_tree = {
 					}
 					AND = {
 						NOT = { controls_state = 69 }
-						NOT = { controls_state = 972 }
+						NOT = { controls_state = 1078 }
 						NOT = { controls_state = 9 }
 						NOT = { controls_state = 75 }
 						NOT = { controls_state = 74 }
@@ -23913,7 +23913,7 @@ focus_tree = {
 					CZE = {
 						OR = {
 							controls_state = 69
-							controls_state = 972
+							controls_state = 1078
 							controls_state = 9
 							controls_state = 75
 							controls_state = 74
@@ -23924,7 +23924,7 @@ focus_tree = {
 				create_wargoal = {
 					type = take_claimed_state
 					target = CZE
-					generator = { 69 972 9 75 74 72 } 
+					generator = { 69 1078 9 75 74 72 } 
 				}
 			}
 
@@ -27765,7 +27765,7 @@ focus_tree = {
 							state_is_fully_controlled_by_ROOT_subject_or_faction_member = yes
 						}
 					}
-					972 = {
+					1078 = {
 						OR = {
 							controller = { has_war_with = ROOT }
 							state_is_fully_controlled_by_ROOT_subject_or_faction_member = yes
@@ -27786,7 +27786,7 @@ focus_tree = {
 					OR = {
 						state = 69
 						state = 74
-						state = 972
+						state = 1078
 					}
 					controller = {
 						NOT = {
@@ -27841,7 +27841,7 @@ focus_tree = {
 									state = 9
 									state = 75
 									state = 74
-									state = 972
+									state = 1078
 								}
 							}
 							transfer_state_to = ROOT
@@ -27968,7 +27968,7 @@ focus_tree = {
 							state = 9
 							state = 75
 							state = 74
-							state = 972
+							state = 1078
 						}
 						controller = {
 							NOT = {
@@ -27993,7 +27993,7 @@ focus_tree = {
 							owns_state = 9
 							owns_state = 75
 							owns_state = 74
-							owns_state = 972
+							owns_state = 1078
 						}
 						NOT = {
 							is_subject_of = ROOT
