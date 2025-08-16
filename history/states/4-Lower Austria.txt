@@ -24,12 +24,12 @@ state={
 			industrial_complex = 4
 			air_base = 1
             11666 = {
-                #landmark_hofburg_palace = {
-                    #level = 1
-                    #allowed = {
-                        #has_dlc = "Gotterdammerung"
-                    #}
-                #}
+                landmark_hofburg_palace = {
+                    level = 1
+                    allowed = {
+                        has_dlc = "Gotterdammerung"
+                    }
+            	}
             }
 		}
 		add_core_of = AUS
