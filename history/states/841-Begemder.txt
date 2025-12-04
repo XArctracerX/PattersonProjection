@@ -2,7 +2,7 @@ state={
 	id=841
 	name="STATE_841"
 	provinces={
-		1984 2040 13137 13241 
+		1984 2040 13241 
 	}
 	history={
 		set_variable = {
