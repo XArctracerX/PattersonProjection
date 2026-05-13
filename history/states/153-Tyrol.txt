@@ -3,6 +3,11 @@ state={
 	id=153
 	name="STATE_153"
 	manpower=1430986
+
+	resources = {
+		coal = 7
+	}
+
 	history={
 		owner = AUS
 		victory_points = {

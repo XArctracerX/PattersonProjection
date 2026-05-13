@@ -4,6 +4,10 @@ state={
 	manpower = 4355722
 	state_category = pastoral 
 
+	resources = {
+		coal = 3
+	}
+
 	history={
 		owner = ENG
 		add_core_of = NGA

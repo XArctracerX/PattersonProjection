@@ -10,6 +10,7 @@ state={
 		oil=14 # was: 20
 		aluminium=30 # was: 52
 		tungsten = 4 #quite large deposits but underexploited in peace time.
+		coal = 8
 	}
 
 

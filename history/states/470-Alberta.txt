@@ -2,6 +2,10 @@ state={
 	id=470
 	name="STATE_470"
 
+	resources = {
+		coal = 9 
+	}
+
 	history={
 		owner = CAN
 		buildings = {

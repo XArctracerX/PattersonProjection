@@ -8,6 +8,7 @@ state={
 	resources={
 		#oil = 1 # was: 1 1937
 		aluminium=100 # was: 194
+		coal = 1
 	}
 	history={
 		owner = HUN

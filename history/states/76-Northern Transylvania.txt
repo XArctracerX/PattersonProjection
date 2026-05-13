@@ -5,6 +5,10 @@ state={
 	manpower=2352700
 	
 	state_category = town
+
+	resources = {
+		coal = 2
+	}
 	
 	history={
 		owner = ROM

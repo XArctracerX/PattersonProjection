@@ -3,6 +3,9 @@ state={
 	id=362
 	name="STATE_362"
 
+	resources = {
+		coal = 19 
+	}
 
 	history={
 		owner = USA

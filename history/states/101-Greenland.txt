@@ -2,7 +2,8 @@ state={
 	id=101
 	name="STATE_101"
 	resources={
-		aluminium=1.000
+		aluminium=14
+		coal = 1
 	}
 	provinces={
 		12512 13058 13066 14184 14201 14227 14350 14374 14427 14429 14202

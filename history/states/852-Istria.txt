@@ -4,6 +4,11 @@ state={
 	provinces={
 		11735 11564
 	}
+
+	resources = {
+		coal = 3
+	}
+
 	history = {
 		owner = ITA
 		victory_points = { #Fiume (Rijeka)

@@ -4,6 +4,11 @@ state={
 	provinces={
 		5146 5171 8913 12994 13302 
 	}
+
+	resources = {
+		coal = 2 
+	}
+	
 	history={
 		owner = CHL
 		buildings = {
