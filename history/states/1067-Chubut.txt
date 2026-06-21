@@ -2,7 +2,7 @@ state={
 	id=1067
 	name="STATE_1067"
 	resources={
-		oil=4.000
+		oil=4
 	}
 	provinces={
 		8161 8176 10953 11005 13296  13306

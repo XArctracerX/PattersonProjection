@@ -2,8 +2,8 @@ state={
 	id=1014
 	name="STATE_1014"
 	resources={
-		rubber=2.000
-		oil=8.000
+		rubber=2
+		oil=8
 	}
 	history={
 		owner = ENG # Was a potectorate seperate from British Malaysia
